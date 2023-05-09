@@ -80,3 +80,6 @@ ul li:hover .subMenu {
 li:hover {
   background-color: rgba(0, 0, 0, 0.505);
 }
+i {
+  color: white;
+}
